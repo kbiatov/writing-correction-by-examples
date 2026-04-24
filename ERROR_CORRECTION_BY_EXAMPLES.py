@@ -639,7 +639,7 @@ python -m spacy download ja_core_news_sm
 python -m spacy download el_core_news_sm
 python -m spacy download zh_core_web_sm
 
-python3 LANGUAGE_LEARNING_ASSISTENT.py
+python3  WRITING_CORRECTION_BY_EXAMPLES.py
 
 Steps:
 
