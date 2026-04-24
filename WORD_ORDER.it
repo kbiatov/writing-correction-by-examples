@@ -1,0 +1,90 @@
+
+Common word order mistakes in Italian writing often involve placing prepositions or adverbs incorrectly, which can change the meaning of a sentence. 
+
+Additionally, English speakers may struggle with the typical Subject-Verb-Object structure,  leading to unnatural phrasing in Italian.
+
+Common Word Order Mistakes in Italian Writing
+
+Overview of Italian Syntax
+
+Italian typically follows a Subject-Verb-Object (SVO) structure. 
+
+However, variations can occur for emphasis or stylistic reasons. 
+
+Understanding these common mistakes can help improve clarity in writing.
+
+Frequent Mistakes
+
+Mistake Typ
+
+Misplaced Adverbs	
+
+Adverbs should be placed close to the verb they modify.
+Incorrect:
+Luca spesso va al cinema.
+PROPN ADV VERB{andare}[-] al NOUN[-ma](f) 
+PROPN ADV VERB ADP NOUN . 
+
+Correct:
+Luca va spesso al cinema.
+PROPN VERB{andare}[-] ADV al NOUN[-ma](f) 
+PROPN VERB ADV ADP NOUN . 
+
+
+Incorrect Preposition Placement	
+
+Prepositions must be used correctly to convey the right meaning.	
+Incorrect:
+Vado a casa in treno.
+VERB{Vado}[-ado] a NOUN[-sa](f) in NOUN[-no](m) 
+VERB ADP NOUN ADP NOUN . 
+
+
+Correct:
+Vado in treno a casa.
+VERB{Vado}[-ado] in NOUN[-no](m) a NOUN[-sa](f) 
+VERB ADP NOUN ADP NOUN . 
+
+
+Subject Pronoun Redundancy	
+
+Subject pronouns are often omitted unless needed for emphasis.	
+Incorrect:
+Io parlo italiano.
+io VERB{parlare}[-rlo] ADJ[-no] 
+PRON VERB ADJ . 	
+
+Correct:
+Parlo italiano.
+NOUN[-lo](m) ADJ[-no] 
+NOUN ADJ . 
+
+Confusing Object Placement	
+
+Objects should follow the verb directly, especially in simple sentences.	
+Incorrect:
+Mangio la pizza io.
+VERB{Mangio}[-gio] la NOUN[-za](f) io 
+VERB DET NOUN PRON . 
+
+Correct:
+Io mangio la pizza.
+io VERB{mangiare}[-gio] la NOUN[-za](f) 
+PRON VERB DET NOUN . 
+
+
+Inverted Questions	
+
+In questions, the verb often precedes the subject, but this can be misapplied.	
+
+Incorrect:
+Tu hai visto il film?
+tu hai VERB{vedere}[-sto] il NOUN[-lm](x)? 
+PRON AUX VERB DET NOUN ?
+
+
+Correct:
+Hai visto il film tu?
+hai VERB{vedere}[-sto] il NOUN[-lm](x) tu?
+AUX VERB DET NOUN PRON ?
+

@@ -1,0 +1,70 @@
+Common Word Order Errors in German Writing
+
+Overview of German Word Order
+
+The basic word order is Subject-Verb-Object (SVO) in main clauses. 
+
+However, German also follows the Verb Second (V2) rule, meaning the conjugated verb must always be in the second position of the sentence. 
+
+In subordinate clauses, the verb moves to the end.
+Correct:
+Ich gehe oft ins Kino, weil ich Filme mag.	
+ich VERB ADV ins NOUN weil ich NOUN VERB 
+ich VERB{gehen}[-ehe] ADV ins NOUN[-no](x) weil ich NOUN[-me](x) VERB{mögen}[-mag] 
+
+Incorrect:
+Ich gehe oft ins Kino weil ich mag Filme.
+ich VERB ADV ins NOUN weil ich VERB NOUN 
+ich VERB{gehen}[-ehe] ADV ins NOUN[-no](x) weil ich VERB{mögen}[-mag] NOUN[-me](x) 
+
+In subordinate clauses, the verb goes to the end after conjunctions like "weil."
+
+Adverb Placement	
+
+Adverbs should be placed after the conjugated verb in main clauses.
+
+Incorrect:
+Gestern ich habe den Arzt besucht.	
+ADV ich habe den NOUN VERB 
+ADV ich habe den NOUN[-zt](x) VERB{besuchen}[-cht] 
+
+Correct:
+Ich habe gestern den Arzt besucht.
+ich habe ADV den NOUN VERB 
+ich habe ADV den NOUN[-zt](x) VERB{besuchen}[-cht] 	
+
+Multiple Verbs	
+
+When starting with an adverb, the subject must follow the verb.
+Correct:
+Morgen kann ich ins Kino gehen.	
+ADV kann ich ins NOUN VERB 
+ADV kann ich ins NOUN[-no](n) VERB{gehen}[-hen] 
+
+Incorrect:
+Ich kann morgen ins Kino gehen.	
+ich kann ADV ins NOUN VERB 
+ich kann ADV ins NOUN[-no](n) VERB{gehen}[-hen] 
+
+Negation Errors	
+The negation "nicht" typically comes after the verb in German.
+Incorrect:
+Ich nicht mag das Wetter.	
+ich nicht mag das NOUN 
+ich nicht mag das NOUN[-er](m) 
+
+Correct:
+Ich mag das Wetter nicht
+ich mag das NOUN nicht 
+ich mag das NOUN[-er](m) nicht 
+
+Tips for Avoiding Errors
+
+    Practice Sentence Structure: Regularly practice forming sentences 
+    with different structures to become familiar with the rules.
+
+    Read Aloud: Saying sentences out loud can help identify 
+    awkward or incorrect word order.
+
+    Use Connectives: Incorporate conjunctions like "weil," "dass," and "obwohl" 
+    to practice subordinate clauses correctly."""

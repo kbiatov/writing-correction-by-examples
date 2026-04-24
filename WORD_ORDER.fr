@@ -1,0 +1,93 @@
+
+Common errors in French writing related to word order include misplacing adjectives, 
+which typically follow the noun they modify, and incorrect placement of adverbs,  which usually come after the verb. 
+
+Additionally, learners often struggle with forming questions and using negation correctly, which can alter the meaning of sentences.
+
+Common Errors in French Word Order
+
+Understanding the correct word order in French is crucial for clear communication. 
+
+Here are the typical errors learners make regarding word order.
+
+Using inversion incorrectly.
+Misplacing est-ce que at the beginning of a statement.
+
+Misplacing Adjectives
+
+In French, adjectives usually follow the nouns they modify. 
+
+However, some adjectives can precede the noun based on specific categories.
+
+Adjective Placement	Examples
+
+After the noun correct:
+Une voiture rouge	
+une NOUN ADJ
+
+Before the noun incorrect:
+une rouge voiture
+une ADJ NOUN
+
+Before (BAGS category) correct:
+une belle maison
+une ADJ[-le] NOUN[-on](m)
+
+Incorrect Placement of Adverbs
+
+Adverbs in French typically come after the verb they modify
+
+Misplacing them can lead to confusion.
+
+Adverb Placement
+
+After the verb is correct:
+Je parle bien français
+je VERB ADV ADJ 
+je VERB{parler}[-rle] ADV ADJ[-is] 
+
+Before the verb is incorrect:
+Je bien parle français
+je ADV ADJ ADJ 
+je ADV ADJ[-le] ADJ[-is] 
+
+Forming Questions
+
+French questions have specific structures that differ from English. 
+
+Common errors include:
+
+    Using inversion incorrectly.
+    Misplacing est-ce que at the beginning of a statement.
+
+Negation Errors
+
+Negation in French is typically formed with ne... pas, surrounding the verb. 
+Errors often occur when learners forget the ne or misplace pas.
+
+Correct negation:	
+Je ne mange pas.
+je ADV VERB ADV 
+je ADV VERB{manger}[-nge] ADV 
+
+In French language ne and pas are labeled as ADV
+
+Incorrect negation:	
+Je mange pas.
+je VERB ADV 
+je VERB{manger}[-nge] ADV 
+
+
+Summary of Common Errors
+
+    Adjective Misplacement: Adjectives usually follow nouns, except for certain categories (BAGS).
+    
+    Adverb Misplacement: Adverbs typically follow the verb.
+    
+    Question Formation: Incorrect use of inversion and est-ce que.
+    
+    Negation Errors: Misplacing or omitting ne in negation.
+
+By paying attention to these common errors, learners can improve their French writing and speaking skills significantly.
+
+

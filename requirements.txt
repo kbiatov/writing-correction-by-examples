@@ -1,0 +1,8 @@
+gensim==4.4.0
+mlpack==4.7.0
+numpy==2.2.6
+scikit-learn==1.7.2
+scipy==1.15.3
+spacy==3.8.14
+tk==0.1.0
+scikit-learn==1.7.2
