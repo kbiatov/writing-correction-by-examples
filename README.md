@@ -57,7 +57,7 @@ pip3 install -r requirements.txt
 
 sh model_download.txt
 
-python3 LANGUAGE_LEARNING_ASSISTENT.py
+python3  WRITING_CORRECTION_BY_EXAMPLES.py
 
 Steps:
 
